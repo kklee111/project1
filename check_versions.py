@@ -2,8 +2,8 @@
 import sys
 print('Python: {}'.format(sys.version))
 # scipy
-import scipy
-print('scipy: {}'.format(scipy.__version__))
+#import scipy
+#print('scipy: {}'.format(scipy.__version__))
 # numpy
 import numpy
 print('numpy: {}'.format(numpy.__version__))
