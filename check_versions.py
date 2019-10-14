@@ -8,7 +8,7 @@ print('scipy: {}'.format(scipy.__version__))
 import numpy
 print('numpy: {}'.format(numpy.__version__))
 # matplotlibv
-import matplotlib
+import matplotlibv
 print('matplotlib: {}'.format(matplotlib.__version__))
 # pandas
 import pandas
