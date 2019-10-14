@@ -1,7 +1,7 @@
 # Python version
 import sys
 print('Python: {}'.format(sys.version))
-# scipy33
+# scipy3
 import scipy
 print('scipy: {}'.format(scipy.__version__))
 # numpy
